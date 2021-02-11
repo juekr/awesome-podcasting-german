@@ -199,11 +199,11 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 ### Allgemeine Ressourcen
 
-- [:de: Apple Podcast category overview](https://podcasts.apple.com/de/genre/podcasts/id26) (in case you need a category's id or something; and if you want to switch stores, just change the language code in the URL)
-- [:gb: Proposals for a wholistic RSS podcasting namespace](https://github.com/Podcastindex-org/podcast-namespace)
--  [:gb: Apple (Podcast) search API documentation](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) – not overly useful for podcast-related stuff  
-- [:gb: Mespotines extensive Ultraschall API documentation](https://mespotin.uber.space/Ultraschall/US_Api_Introduction_and_Concepts.html) – in case you're planning on even further extending Reaper as a podcasting DAW
-- [:gb: gPodder API documentation](https://gpoddernet.readthedocs.io/en/latest/api/) – if you ever find yourself in need of a online podcast syncing service
+- [:de: Apple Podcast: Kategorie-Übersicht](https://podcasts.apple.com/de/genre/podcasts/id26) (falls du mal die ID einer solchen Kategorie benötigst; für Zugriff auf die IDs aus anderen Länderverzeichnissen, einfach den Language-Code in der URL ändern)
+- [:gb: Vorschlag für einen ganzheitlichen RSS-Podcast-Namespace](https://github.com/Podcastindex-org/podcast-namespace)
+-  [:gb: Apple (Podcast): Such-API-Dokumentation](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) – nicht übermäßig nützlich für Podcast-Kram  
+- [:gb: Mespotines umfangreiche Ultraschall-API-Dokumentation](https://mespotin.uber.space/Ultraschall/US_Api_Introduction_and_Concepts.html) – DIE Ressource für jeden, der Readper/Ultraschall weiter modifizieren möchte
+- [:gb: gPodders API-Dokumentation](https://gpoddernet.readthedocs.io/en/latest/api/) – für alle Projekte, die zufällig mal einen Online-Podcast-Synchronisationsdienst brauchen
 - [:gb: Python podcast parser (as used in gPodder services)](https://podcastparser.readthedocs.io/en/latest/) – might come in handy in any python podcast projects
 - [:gb: Specification of PSC (Podlove Simple Chapters)](https://podlove.org/2012/03/26/simple-chapter-specification/), *the* chapter marker standard that all the Germans are so crazy about
 - [:gb: How-to track you podcast's ranking automatically in google spreadsheet](https://jukkaahola.fi/en/how-to-track-itunes-podcast-rankings-automatically/) 
