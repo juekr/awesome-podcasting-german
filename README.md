@@ -204,15 +204,15 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 -  [:gb: Apple (Podcast): Such-API-Dokumentation](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) – nicht übermäßig nützlich für Podcast-Kram  
 - [:gb: Mespotines umfangreiche Ultraschall-API-Dokumentation](https://mespotin.uber.space/Ultraschall/US_Api_Introduction_and_Concepts.html) – DIE Ressource für jeden, der Readper/Ultraschall weiter modifizieren möchte
 - [:gb: gPodders API-Dokumentation](https://gpoddernet.readthedocs.io/en/latest/api/) – für alle Projekte, die zufällig mal einen Online-Podcast-Synchronisationsdienst brauchen
-- [:gb: Python podcast parser (as used in gPodder services)](https://podcastparser.readthedocs.io/en/latest/) – might come in handy in any python podcast projects
-- [:gb: Specification of PSC (Podlove Simple Chapters)](https://podlove.org/2012/03/26/simple-chapter-specification/), *the* chapter marker standard that all the Germans are so crazy about
-- [:gb: How-to track you podcast's ranking automatically in google spreadsheet](https://jukkaahola.fi/en/how-to-track-itunes-podcast-rankings-automatically/) 
-- [:gb: Feedrabbit](https://feedrabbit.com/): a service that sends you feed items via email (for archiving, comment notification or else)
-- [:gb: Pipes digital](https://www.pipes.digital/): the spiritual successor to Yahoo pipes 
+- [:gb: Python-Podcast-Parser (wie er beispielsweise von gPodder verwendet wird)](https://podcastparser.readthedocs.io/en/latest/) – könnte sich in einem Python-Podcast-Projekts bezahlt machen
+- [:gb: Spezifikation von PSC (Podlove Simple Chapters)](https://podlove.org/2012/03/26/simple-chapter-specification/), *DER* Kapitelmarkenstandard, bei dem alle Deutschen vor Freude durchdrehen 
+- [:gb: Wie du die Chartplatzierung deines Podcasts in einem Google-Spreadsheet tracken kannst](https://jukkaahola.fi/en/how-to-track-itunes-podcast-rankings-automatically/) 
+- [:gb: Feedrabbit](https://feedrabbit.com/): ein Dienst, der dir Feed-Items via E-Mail zuschickt (etwa zur Archivierung oder zur Benachrichtigung bei Kommentaren)
+- [:gb: Pipes digital](https://www.pipes.digital/): der spirituelle Nachfolger von Yahoo Pipes 
 
 ### Build your own feeds for charts and reviews
 
-#### Your (or any) podcast's reviews
+#### Deine Podcast-Bewertungen (oder die von jemand anderem)
 
 You can subscribe to Apple Podcast reviews for your podcast via an RSS feed. Bear in mind though there are separate feeds for each country store. If you know of a possibility to subscribe to reviews globally, please let me know! For most German podcast projects, it seems sufficient to fetch comments from the DACH region – with the relevant country codes being: "de", "at" and "ch".
 
