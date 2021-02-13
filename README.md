@@ -344,15 +344,15 @@ PS: Apple hat auch einen Feed-Generator für allgemeine, kategorieübergreifende
 
 
 
-### Get feed URL from Apple Podcast page
+### Die Feed-URL zu einem Podcast im Apple-Verzeichnis herausfinden
 
-If you ever feel the need to (programmatically) extract a feed URL from a Apple-Podcasts-listed podcast, you can just query this API:
+Falls du mal in die Not gerätst, (automatisiert) die Feed-URL zu eiem Podcast im Apple-Verzeichnis herausfinden zu wollen, kannst du einfach die API verwenden:
 
 ```
-https://itunes.apple.com/lookup?id=[PODCAST'S ID WITHOUT THE LEADING "id", f. e. 1220156551]&entity=podcast
+https://itunes.apple.com/lookup?id=[PODCAST-ID OHNE "id" AM ANFANG, z. B. 1220156551]&entity=podcast
 ```
 
-You should get a JSON response that – amongst other info – hands you over the feed URL:
+In der JSON-Antwort verbirgt sich unter anderem auch die Feed-URL:
 
 ```
 {
