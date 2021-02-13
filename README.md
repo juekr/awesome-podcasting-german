@@ -1,4 +1,4 @@
-# "Awesome"-Linksammlung mit Podcasting-Ressourcen
+# Eine Podcasting-Linksammlung? Awesome!
 ---
 
 von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
@@ -210,41 +210,41 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Feedrabbit](https://feedrabbit.com/): ein Dienst, der dir Feed-Items via E-Mail zuschickt (etwa zur Archivierung oder zur Benachrichtigung bei Kommentaren)
 - [:gb: Pipes digital](https://www.pipes.digital/): der spirituelle Nachfolger von Yahoo Pipes 
 
-### Build your own feeds for charts and reviews
+### DIY-Feeds für Charts und Bewertungen
 
-#### Deine Podcast-Bewertungen (oder die von jemand anderem)
+#### Podcast-Bewertungen (deine oder die von jemand anderem)
 
-You can subscribe to Apple Podcast reviews for your podcast via an RSS feed. Bear in mind though there are separate feeds for each country store. If you know of a possibility to subscribe to reviews globally, please let me know! For most German podcast projects, it seems sufficient to fetch comments from the DACH region – with the relevant country codes being: "de", "at" and "ch".
+Du kannst die Bewertungen im Apple-Verzeichis als Feed abonnieren. Achtung: Für jedes Länderverzeichnis gibt es einen eigenen Feed. (Falls du einen Weg kennst, Feeds global zu abonnieren, lass es mich wissen!) Für die meisten deutschsprachigen Podcastprojekte reicht es vermutlich, die Feeds aus den DACH-Verzeichnissen abzugrasen – die dafür notwendigen Länder-Codes: "de", "at" und "ch".
 
-This is how you build the subscribable review feed url: 
+Die Feed-URL für das Abonnement folgt dem Schema: 
 
-`https://itunes.apple.com/[COUNTRY CODE, f. e. "de"]/rss/customerreviews/id=[YOUR PODCAST'S ID WITHOUT THE LEADING "id", f. e. 1220156551]/sortBy=mostRecent/xml`
+`https://itunes.apple.com/[LÄNDER-CODE, z. B. "de"]/rss/customerreviews/id=[PODCAST-ID OHNE "id" AM ANFANG, z. B. 1220156551]/sortBy=mostRecent/xml`
 
-So the result would be in my example:
+In meinem Fall wäre das:
 
 `https://itunes.apple.com/de/rss/customerreviews/id=1220156551/sortBy=mostRecent/xml`
 
-#### Category charts
+#### Kategorie-Charts
 
-I couldn't really find official documentation about it but it seems like you also can subscribe to category charts – again, with a custom feed for each country. 
+Ich konnte dazu keine offizielle Dokumentation finden, aber wie es aussieht, stehen auch die Kategorie-Charts als Feeds zum Abruf bereit – natürlich wieder mit einem Feed pro Länder-Verzeichnis. 
 
-This is how you build the subscribable chart feed url: 
+Die Feed-URL für das Abonnement folgt dem Schema:  
 
-`http://itunes.apple.com/[COUNTRY CODE, f. e. "de"]/rss/toppodcasts/genre=[CATEGORY ID, f. e. "1487" for "History"]/limit=[NUMBER OF RESULTS, f. e. "100"]/xml`
+`http://itunes.apple.com/[LÄNDER-CODE, z. B. "de"]/rss/toppodcasts/genre=[KATEGORIE-ID, z. B. "1487" für "Geschichte"]/limit=[ANZAHL DER ERGEBNISSE, z. B. "100"]/xml`
 
-Depending on what you're planning to do, it might make more sense to receive this data not in XML but in JSON format:
+Je nachdem, was du damit vorhast, ist es vielleicht praktischer, die Charts nicht als XML, sondern im JSON-Format abzuholen:
 
-`http://itunes.apple.com/[COUNTRY CODE, f. e. "de"]/rss/toppodcasts/genre=[CATEGORY ID, f. e. "1487" for "History"]/limit=[NUMBER OF RESULTS, f. e. "100"]/xml`
+`http://itunes.apple.com/[LÄNDER-CODE, z. B. "de"]/rss/toppodcasts/genre=[KATEGORIE-ID, z. B. "1487" für "History"]/limit=[ANZAHL DER ERGEBNISSE, z. B. "100"]/xml`
 
-So the result would be in my example:
+In meinem Beispiel wäre das:
 
- `http://itunes.apple.com/de/rss/toppodcasts/genre=1487/limit=100/json`
+`http://itunes.apple.com/de/rss/toppodcasts/genre=1487/limit=100/json`
 
-PS: In case you're only looking for overall, category-independent charts in the Apple directory, you can just use [this feed  link generator provided by Apple](https://rss.itunes.apple.com/de-de). 
+PS: Apple hat auch einen Feed-Generator für allgemeine, kategorieübergreifende Charts: [https://rss.itunes.apple.com/de-de](https://rss.itunes.apple.com/de-de). 
 
-#### Apple's podcast category ids
+#### Apples Podcast-Kategorie-IDs
 
-| id       | category                                                     | charts (json)                                                |
+| ID       | Kategorie                                                     | Charts (json)                                                |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **1301** | **[Kunst](https://podcasts.apple.com/de/genre/podcasts-kunst/id1301)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1301/limit=200/json) |
 | 1402     | &nbsp;&nbsp;&nbsp;&nbsp;[Design](https://podcasts.apple.com/de/genre/podcasts-kunst-design/id1402) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1402/limit=200/json) |
