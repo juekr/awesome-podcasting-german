@@ -7,9 +7,6 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 <!---toc start-->
 **Inhaltsverzeichnis:**
-
-* [Eine Podcasting-Linksammlung? Awesome!](#eine-podcasting-linksammlung-awesome)
-  * [Linksammlung](#linksammlung)
     * [Podcasts Hören](#podcasts-hören)
       * [Den richtigen Podcatcher finden](#den-richtigen-podcatcher-finden)
       * [Werkzeuge](#werkzeuge)
@@ -54,8 +51,6 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 <!---toc end-->
 
 ---
- 
-## Linksammlung
 
 ###  Podcasts Hören
 
