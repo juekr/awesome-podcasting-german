@@ -1,6 +1,4 @@
 # Eine Podcasting-Linksammlung? Awesome!
----
-
 von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 ---
@@ -39,8 +37,8 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
     * [Dienste, die deine Chart-Position tracken](#dienste-die-deine-chart-position-tracken)
   * [Mit anderen Podcastenden verbinden](#mit-anderen-podcastenden-verbinden)
   * [Den Podcast-Feed zum Teilen aufbereiten](#den-podcast-feed-zum-teilen-aufbereiten)
-* [Anhang A: Podcasting-Jobs](#anhang-a-podcasting-jobs)
-* [Anhang B: Programmier-Ressourcen](#anhang-b-programmier-ressourcen)
+* [Podcasting-Jobs](#anhang-a-podcasting-jobs)
+* [Anhang A: Programmier-Ressourcen](#anhang-b-programmier-ressourcen)
   * [Allgemeine Ressourcen](#allgemeine-ressourcen)
   * [DIY-Feeds für Charts und Bewertungen](#diy-feeds-für-charts-und-bewertungen)
     * [Podcast-Bewertungen (deine oder die von jemand anderem)](#podcast-bewertungen-deine-oder-die-von-jemand-anderem)
@@ -241,10 +239,10 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 - [:gb: Wie du mit XML-Stylesheets (XLST) jeden RSS-Feed gestaltest](https://www.bennadel.com/blog/3770-using-xslt-and-xml-transformations-to-style-my-blogs-rss-feed-as-an-html-page.htm) – ein ganz gutes Beispiel, wie das bei einem Podcast aussehen kann: [Podcast-Feed von "Reden ist Geld" (Detektor FM)](https://feedpress.me/detektorfm_reden-ist-geld)
 
-## Anhang A: Podcasting-Jobs
+## Podcasting-Jobs
 - [:gb: Kollaborativer Standard für Rolen und Berufe im Podcast-Bereich](https://podcasttaxonomy.com/)
 
-## Anhang B: Programmier-Ressourcen
+## Anhang A: Programmier-Ressourcen
 
 ### Allgemeine Ressourcen
 
