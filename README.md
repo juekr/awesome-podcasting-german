@@ -171,7 +171,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 #### Episoden- und Themenplanung
 
-- [:gb: WIe du Podcast-Content findest](https://rachelcorbett.com.au/podcast-content/)
+- [:gb: Wie du Podcast-Content findest](https://rachelcorbett.com.au/podcast-content/)
 - [:gb: 20 tolle Ressourcen, um Podcast-Gäste aufzutun](https://podcastwebsites.com/2016/08/20-finding-podcast-guest/)
 - [:de:/:gb: Answer the public](https://answerthepublic.com/): Über ein Themengebiet relevante Fragestellungen und neue Themenideen finden – auf Basis von Suchmaschinendaten. Quasi ein "Wer sich für A interessiert, interessiert sich wahrscheinlich auf für B".
 - [:de: HalloPodcaster](https://www.hallopodcaster.de/): bringt Podcast-Produzierende mit Gästinnen und Gästen zusammen
