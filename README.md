@@ -256,6 +256,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Wie du die Chartplatzierung deines Podcasts in einem Google-Spreadsheet tracken kannst](https://jukkaahola.fi/en/how-to-track-itunes-podcast-rankings-automatically/) 
 - [:gb: Feedrabbit](https://feedrabbit.com/): ein Dienst, der dir Feed-Items via E-Mail zuschickt (etwa zur Archivierung oder zur Benachrichtigung bei Kommentaren)
 - [:gb: Pipes digital](https://www.pipes.digital/): der spirituelle Nachfolger von Yahoo Pipes 
+- [:gb: Spotifys Podcast-API](https://podcasters.spotify.com/blog/spotify-introduces-new-podcast-api)
 
 ### DIY-Feeds für Charts und Bewertungen
 
