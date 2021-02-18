@@ -151,6 +151,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: DIY-Erdungskabel gegen 50-Hertz-Netzbrummen](https://sendegate.de/t/bastelecke-erdungskabel-gegen-50hz-netzbrummen/3262) 
 - [:de: Ausführlicher Mikrofonvergleich (mit Podcast-Fokus)](https://sendegate.de/t/test-headsets-und-mikrofone-im-direktvergleich/2965)
 - [:de: Ausführlicher Mikrofonvergleich (mit Videotelefonie-Fokus)](https://khpape.blog/wordpress/mikrofone-fuer-videokonferenzen/)
+- [:gb: Unclack (für Mac)](https://unclack.app/#/): stellt automatisch das Mikrofon stumm, während du tippst, um Störgeräusche in der Aufnahme zu vermeiden.
 
 #### Remote-Aufnahmen über das Internet
 
