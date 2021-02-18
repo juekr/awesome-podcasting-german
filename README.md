@@ -160,6 +160,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Squadcast](https://squadcast.fm/): Remote-Aufnahmen und Audioschnitt direkt im Browser
 - [:gb: Riverside.fm](https://riverside.fm/): Remote-Aufnahmen direkt im Browser
 - ... natürlich gibt es im Videokonferenz-Zeitalter noch eine Menge weiterer Möglichkeiten, die sich mal mehr, mal weniger gut auch für die Aufnahme von Podcasts über das Internet eignen; etwa Teamspeak, Discord, Skype, Zencastr, Zoom und viele, viele mehr.
+- [:de: Checkliste für Teilnehmende](https://check.podcastpastete.de/) von [@derphilipp](https://twitter.com/derphilipp?lang=de)
 
 #### Hosting
 
