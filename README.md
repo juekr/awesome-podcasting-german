@@ -68,6 +68,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Fyyd](https://fyyd.de): unabhängige Podcast-Suchmaschine – perfekt, um Podcastepisoden zu finden und in persönlichen Feeds zu sammlen oder zu kuratieren
 - [:gb: Huffduffer](https://huffduffer.com/): Audio-Dateien aus dem Netz zusammentragen und in einem "virtuellen" Podcast-Feed abonnierbar zu machen
 - [:de: Podmash](https://podmash.com/): siehe Huffduffer; funktioniert in den meisten Fällen besser, hat aber auch so seine "Problemzönchen"
+- [:gb: Rssmix](http://www.rssmix.com/): mehrere Feeds zu einem zusammenmischen
 
 ### Podcast-Konzepte erstellen
 
