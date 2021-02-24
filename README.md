@@ -63,6 +63,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 #### Werkzeuge
 
+- [:gb: Spotifeed](https://spotifeed.timdorr.com/): Spotify-only-Podcasts wie reguläre Podcasts per Feed abonnieren
 - [:gb: Getrssfeed](https://getrssfeed.com/): spuckt den RSS-Feed zu einer iTunes-, Spotify- or Webseiten-URL aus
 - [:de: Fyyd](https://fyyd.de): unabhängige Podcast-Suchmaschine – perfekt, um Podcastepisoden zu finden und in persönlichen Feeds zu sammlen oder zu kuratieren
 - [:gb: Huffduffer](https://huffduffer.com/): Audio-Dateien aus dem Netz zusammentragen und in einem "virtuellen" Podcast-Feed abonnierbar zu machen
