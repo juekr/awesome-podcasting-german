@@ -5,7 +5,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 <!---toc start-->
 * [Linksammlung](#linksammlung)
-  * [Podcasts Hören](#podcasts-hören)
+  * [Podcasts hören](#podcasts-hören)
     * [Den richtigen Podcatcher finden](#den-richtigen-podcatcher-finden)
     * [Werkzeuge](#werkzeuge)
   * [Podcast-Konzepte erstellen](#podcast-konzepte-erstellen)
@@ -52,7 +52,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
  
 ## Linksammlung
 
-###  Podcasts Hören
+###  Podcasts hören
 
 #### Den richtigen Podcatcher finden
 
