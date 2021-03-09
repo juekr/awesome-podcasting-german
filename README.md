@@ -154,6 +154,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Ausführlicher Mikrofonvergleich (mit Podcast-Fokus)](https://sendegate.de/t/test-headsets-und-mikrofone-im-direktvergleich/2965)
 - [:de: Ausführlicher Mikrofonvergleich (mit Videotelefonie-Fokus)](https://khpape.blog/wordpress/mikrofone-fuer-videokonferenzen/)
 - [:gb: Unclack (für Mac)](https://unclack.app/#/): stellt automatisch das Mikrofon stumm, während du tippst, um Störgeräusche in der Aufnahme zu vermeiden.
+- [:gb: 11 Tipps gegen Windgeräusche bei Aufnahmen draußen](https://www.videomaker.com/how-to/audio-how-to/11-ways-to-combat-wind-noise/)
 
 #### Remote-Aufnahmen über das Internet
 
