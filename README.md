@@ -103,7 +103,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 - [:gb: Wie du ein Podcast-Cover erstellst](https://blog.spreaker.com/9-steps-making-great-podcast-cover-art/)
 
-###### Datenbanken für Bilder unter "Public Domain"-Lizenz (perfekt für Podcast- und Episodencover)
+###### Datenbanken und Quellen für Bilder unter "Public Domain"-Lizenz (perfekt für Podcast- und Episodencover)
 
 - [:gb: Unsplash](https://unsplash.com/): Datenbank mit frei verwendbaren Fotos – aber Vorsicht: Bitte unbedingt die individuellen Bildlizenzen checken!
 - [:de:/:gb: Pexels](https://www.pexels.com/): Datenbank mit frei verwendbaren Bildern (Public Domain)
@@ -112,6 +112,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de:/:gb: Google Images](https://www.google.com/search?q=&tbm=isch&tbs=sur:fmc&hl=de&ved=0CAEQpwVqFwoTCIja9ejWtuoCFQAAAAAdAAAAABAC&biw=1680&bih=811): und noch eine Suche nach Bildern, die mit der passenden Lizenz im Netz stehen – again: Individuelle Lizenzen beachten!
 - [:gb: CC Search](https://ccsearch.creativecommons.org/): Creative-Commons-Inhalte (nicht nur Bilder) im Web finden
 - [:gb: Flaticon](https://www.flaticon.com/): Datenbank mit frei verwendbaren Icons und Grafiken
+- [:gb: "amigos" von Blush](https://amigos.blush.design/): umfangreicher Satz an aufeinander abgestimmten Illustrationen zur freien Werwendung
 
 ###### Kommerzielle Bilddatenbanken
 
