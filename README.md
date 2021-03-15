@@ -142,6 +142,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Reddit-Suche nach "free music"](https://www.reddit.com/search/?q=free%20music): Immer wieder teilen Künstler auf Reddit selbst produzierte Musik oder Sounds und stellen die Kreationen frei zur Verfügung. Ein [Beispiel](https://www.reddit.com/r/videography/comments/dgmbfp/free_sharing_my_full_54_gb_audio_library_cc_by_40/) – und dann gibt es da noch [/r/freemusic](https://reddit.com/r/freemusic).
 - [:gb: CC Search](https://ccsearch.creativecommons.org/): Suchmaschine für Inhalte unter Creative-Commons-Lizenz
 - [:gb: Dirk Primbs umfangreiche Sammlung an Audio-Quellen](https://docs.google.com/spreadsheets/d/1f9IS0zcWjnplEc6YbmVk00VyALk6N-TnFrMXwZwIt7Q/edit#gid=0): Musik, Töne, historische Aufnahmen
+- [:gb: Freie Musik von The Podcast Host (Quellen-Nennung erforderlich)](https://www.thepodcasthost.com/editing-production/free-podcast-music-library/)
 
 ###### Anbieter für Audio-Bezahlinhalte
 
