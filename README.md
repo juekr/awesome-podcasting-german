@@ -190,6 +190,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Audiomass.co](https://audiomass.co/): (Single-Track-)Online-Audio-Rekorder und -Editor 
 - [:de:/:austria:/:gb: Auphonic](https://auphonic.com): automagische Post-Produktion von Ein- und Mehrspuraudio (Noise Reduction, Crosstalk Reduction, Normalizing, Leveling und mehr)
 - [:gb: Ultraschall.fm](https://ultraschall.fm): äußerst empfehlenswertes Podcast-Plugin für die DAW Reaper, das von der deutschen Community entwickelt wird (Interface auf Englisch)
+- [:de: Was gibt es Neues in Ultraschall 5?](https://sendegate.de/t/ultraschall-5-verfuegbar/13425)
 
 #### Der richtige Umgang mit Episoden und ihren Metadaten
 
