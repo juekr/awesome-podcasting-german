@@ -143,7 +143,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: CC Search](https://ccsearch.creativecommons.org/): Suchmaschine für Inhalte unter Creative-Commons-Lizenz
 - [:gb: Dirk Primbs umfangreiche Sammlung an Audio-Quellen](https://docs.google.com/spreadsheets/d/1f9IS0zcWjnplEc6YbmVk00VyALk6N-TnFrMXwZwIt7Q/edit#gid=0): Musik, Töne, historische Aufnahmen
 - [:gb: Freie Musik von The Podcast Host (Quellen-Nennung erforderlich)](https://www.thepodcasthost.com/editing-production/free-podcast-music-library/)
-- [:de: DPA Audio-Hub](https://sso.dpa-id.de/goto/register?product=dpa-Audio%20Hub): O-Töne, Interviews und Atmos von der deutschen Presseagentur
+- [:de: DPA Audio-Hub](https://sso.dpa-id.de/goto/register?product=dpa-Audio%20Hub): O-Töne, Interviews und Atmos von der deutschen Presseagentur (Service selbst ist kostenpflichtig!)
 
 ###### Anbieter für Audio-Bezahlinhalte
 
