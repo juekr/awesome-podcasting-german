@@ -122,6 +122,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 ###### Frei(isch)e Bildeditoren im Browser
 
 - [:de:/:gb: Canva](https://www.canva.com/de_de/erstellen/wallpaper/): Freemium-Online-Bildeditor mit tonnenweise Vorlagen und Beispielen
+- [:de:/:gb: Photopea](https://www.photopea.com/): Online-Photoshop-Klon mit massivem Funktionsumfang, Unterstützung aller gängigen Formate und einem einsteigerfreundlichen "Kostenlos, aber mit Werbung"-Preisstufe
 
 ##### Musik für Intros, Outros, Jingles, Trenner, etc.
 
