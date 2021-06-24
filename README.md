@@ -244,7 +244,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 - [:de: Sendegate](https://sendegate.de): deutsches Community-Forum
 - [:de: Podcasthelden](https://www.facebook.com/groups/wirsindpodcasthelden/): große, aktive Facebook-Gruppe
-- [:de: HalloPodcaster](https://www.hallopodcaster.de/): Verzeichnis, das Podcastende mit Gästinnen und Gästen zusammenberingt
+- [:de: HalloPodcaster](https://www.hallopodcaster.de/): Verzeichnis, das Podcastende mit Gästinnen und Gästen zusammenbringt
 
 ### Den Podcast-Feed zum Teilen aufbereiten
 
