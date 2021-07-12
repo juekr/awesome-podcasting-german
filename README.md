@@ -218,6 +218,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 #### ... über Podcast-Verzeichnisse und Plattformen
 
 - [:de: Fyyd](https://fyyd.de): unabhängige deutsche Podcast-Suchmaschine
+- [:gb: Podcast-Index](https://podcastindex.org/): offenes Verzeichnis für Podcasts (mit Such-API für eigene Programme) 
 - [:de:/:gb: Apple Podcast Connect](https://podcastsconnect.apple.com/) 
 - [:gb: Fiver-Dienstleister, die deinen Podcast in den Charts nach oben schummeln](https://discoverpods.com/how-blackhat-marketers-are-ruining-the-apple-podcasts-charts/): NICHT EMPFOHLEN (weil ist im Grunde Charts-Manipulation)!
 - [:de:/:gb: Deezer Podcast-Anmeldung](https://podcasters.deezer.com/)
@@ -269,6 +270,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Feedrabbit](https://feedrabbit.com/): ein Dienst, der dir Feed-Items via E-Mail zuschickt (etwa zur Archivierung oder zur Benachrichtigung bei Kommentaren)
 - [:gb: Pipes digital](https://www.pipes.digital/): der spirituelle Nachfolger von Yahoo Pipes 
 - [:gb: Spotifys Podcast-API](https://podcasters.spotify.com/blog/spotify-introduces-new-podcast-api)
+- [:gb: Podcastindex](https://podcastindex-org.github.io/docs-api/#overview--overview): API für Podcast-Suchen
 
 ### DIY-Feeds für Charts und Bewertungen
 
