@@ -8,6 +8,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
   * [Podcasts hören](#podcasts-hören)
     * [Den richtigen Podcatcher finden](#den-richtigen-podcatcher-finden)
     * [Werkzeuge](#werkzeuge)
+    * [Podcasts entdecken](#podcasts-entdecken)
   * [Podcast-Konzepte erstellen](#podcast-konzepte-erstellen)
     * [Konzept und Planung](#konzept-und-planung)
       * [Vorüberlegungen zu Konzept, Publikum und Nischen](#vorüberlegungen-zu-konzept-publikum-und-nischen)
@@ -65,10 +66,13 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 - ~~[:gb: Spotifeed](https://spotifeed.timdorr.com/): Spotify-only-Podcasts wie reguläre Podcasts per Feed abonnieren~~
 - [:gb: Getrssfeed](https://getrssfeed.com/): spuckt den RSS-Feed zu einer iTunes-, Spotify- or Webseiten-URL aus
-- [:de: Fyyd](https://fyyd.de): unabhängige Podcast-Suchmaschine – perfekt, um Podcastepisoden zu finden und in persönlichen Feeds zu sammlen oder zu kuratieren
 - [:gb: Huffduffer](https://huffduffer.com/): Audio-Dateien aus dem Netz zusammentragen und in einem "virtuellen" Podcast-Feed abonnierbar zu machen
 - [:de: Podmash](https://podmash.com/): siehe Huffduffer; funktioniert in den meisten Fällen besser, hat aber auch so seine "Problemzönchen"
 - [:gb: Rssmix](http://www.rssmix.com/): mehrere Feeds zu einem zusammenmischen
+
+#### Podcasts entdecken
+- [:gb: Rephonic](https://rephonic.com/discover): Gibt Podcast ein, die du magst, und du erhältst dazu passende Vorschläge (basierend auf Apple-Podcast-Daten).
+- [:de: Fyyd](https://fyyd.de): unabhängige Podcast-Suchmaschine – perfekt, um Podcastepisoden zu finden und in persönlichen Feeds zu sammlen oder zu kuratieren
 
 ### Podcast-Konzepte erstellen
 
