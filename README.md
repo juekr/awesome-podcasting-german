@@ -116,7 +116,8 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de:/:gb: Google Images](https://www.google.com/search?q=&tbm=isch&tbs=sur:fmc&hl=de&ved=0CAEQpwVqFwoTCIja9ejWtuoCFQAAAAAdAAAAABAC&biw=1680&bih=811): und noch eine Suche nach Bildern, die mit der passenden Lizenz im Netz stehen – again: Individuelle Lizenzen beachten!
 - [:gb: CC Search](https://ccsearch.creativecommons.org/): Creative-Commons-Inhalte (nicht nur Bilder) im Web finden
 - [:gb: Flaticon](https://www.flaticon.com/): Datenbank mit frei verwendbaren Icons und Grafiken
-- [:gb: "amigos" von Blush](https://amigos.blush.design/): umfangreicher Satz an aufeinander abgestimmten Illustrationen zur freien Werwendung
+- [:gb: "amigos" von Blush](https://amigos.blush.design/): umfangreicher Satz an aufeinander abgestimmten Illustrationen zur freien Verwendung
+- [:gb: UX Wind](https://uxwing.com/): freie Icons, ohne Attribution auch für kommerzielle Projekte
 
 ###### Kommerzielle Bilddatenbanken
 
