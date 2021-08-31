@@ -168,7 +168,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 #### Remote-Aufnahmen über das Internet
 
 - [:de:/:gb: Studio.link](https://studio-link.de/) – für Studio-Link als Werkzeug für die Aufnahme über das Internet spricht so einiges: Es glänzt vor allem in komplizierten Aufnahmesetups, es ist sehr latenzarm mit exzellentem Audio-Codec, es beherrscht Double-Ender-Aufnahmen, es ist nahtlos in Ultraschall integriert, ...
-- [:gb: Cleanfeed](https://cleanfeed.net/): Multi-Rrack Remote-Aufnahmen direkt im Browser
+- [:gb: Cleanfeed](https://cleanfeed.net/): Multi-Track-Remote-Aufnahmen direkt im Browser
 - [:gb: Squadcast](https://squadcast.fm/): Remote-Aufnahmen und Audioschnitt direkt im Browser
 - [:gb: Riverside.fm](https://riverside.fm/): Remote-Aufnahmen direkt im Browser
 - ... natürlich gibt es im Videokonferenz-Zeitalter noch eine Menge weiterer Möglichkeiten, die sich mal mehr, mal weniger gut auch für die Aufnahme von Podcasts über das Internet eignen; etwa Teamspeak, Discord, Skype, Zencastr, Zoom und viele, viele mehr.
