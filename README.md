@@ -171,6 +171,11 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Cleanfeed](https://cleanfeed.net/): Multi-Track-Remote-Aufnahmen direkt im Browser
 - [:gb: Squadcast](https://squadcast.fm/): Remote-Aufnahmen und Audioschnitt direkt im Browser
 - [:gb: Riverside.fm](https://riverside.fm/): Remote-Aufnahmen direkt im Browser
+- [:gb: ClearCast](https://clearcast.io/)
+- [:gb: Ringr](https://ringr.com/)
+- [:gb: Cast](https://tryca.st/#rf-17807): Aufnahme, Bearbeitung, Veröffentlichung, alles im Browser
+- [:gb:/:de: Soundtrap](https://www.soundtrap.com/) Remote-Aufnahmen mit automatischen Transkripten
+- [:gb: ipDTL](https://ipdtl.com/): ISDN-Anrufe im Browser aufzeichnen
 - ... natürlich gibt es im Videokonferenz-Zeitalter noch eine Menge weiterer Möglichkeiten, die sich mal mehr, mal weniger gut auch für die Aufnahme von Podcasts über das Internet eignen; etwa Teamspeak, Discord, Skype, Zencastr, Zoom und viele, viele mehr.
 - [:de: Checkliste für Teilnehmende](https://check.podcastpastete.de/) von [@derphilipp](https://twitter.com/derphilipp?lang=de)
 
