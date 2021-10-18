@@ -150,6 +150,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Dirk Primbs umfangreiche Sammlung an Audio-Quellen](https://docs.google.com/spreadsheets/d/1f9IS0zcWjnplEc6YbmVk00VyALk6N-TnFrMXwZwIt7Q/edit#gid=0): Musik, Töne, historische Aufnahmen
 - [:gb: Freie Musik von The Podcast Host (Quellen-Nennung erforderlich)](https://www.thepodcasthost.com/editing-production/free-podcast-music-library/)
 - [:de: DPA Audio-Hub](https://sso.dpa-id.de/goto/register?product=dpa-Audio%20Hub): O-Töne, Interviews und Atmos von der deutschen Presseagentur (Service selbst ist kostenpflichtig!)
+- [:gb: CC0-Music von OpenGameArt](https://opengameart.org/content/cc0-music-0)
 
 ###### Anbieter für Audio-Bezahlinhalte
 
