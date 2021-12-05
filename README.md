@@ -204,6 +204,9 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de:/:austria:/:gb: Auphonic](https://auphonic.com): automagische Post-Produktion von Ein- und Mehrspuraudio (Noise Reduction, Crosstalk Reduction, Normalizing, Leveling und mehr)
 - [:gb: Ultraschall.fm](https://ultraschall.fm): äußerst empfehlenswertes Podcast-Plugin für die DAW Reaper, das von der deutschen Community entwickelt wird (Interface auf Englisch)
 - [:de: Was gibt es Neues in Ultraschall 5?](https://sendegate.de/t/ultraschall-5-verfuegbar/13425)
+- :de: Ultraschall-Handbuch: Coming soon!
+- [:de: Ultraschall-Keymap](http://files.rstockm.de/index.php/s/YxSaKR7o4EgQAA6)
+- [:de: Ultraschall-Programmfensterübersicht](https://raw.githubusercontent.com/leonidlezner/ultraschall-tutorial/main/docs/downloads/Quick-Info-Ultraschall.pdf)
 
 #### Der richtige Umgang mit Episoden und ihren Metadaten
 
@@ -273,7 +276,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Apple Podcast: Kategorie-Übersicht](https://podcasts.apple.com/de/genre/podcasts/id26) (falls du mal die ID einer solchen Kategorie benötigst; für Zugriff auf die IDs aus anderen Länderverzeichnissen, einfach den Language-Code in der URL ändern)
 - [:gb: Vorschlag für einen ganzheitlichen RSS-Podcast-Namespace](https://github.com/Podcastindex-org/podcast-namespace)
 -  [:gb: Apple (Podcast): Such-API-Dokumentation](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) – nicht übermäßig nützlich für Podcast-Kram  
-- [:gb: Mespotines umfangreiche Ultraschall-API-Dokumentation](https://mespotin.uber.space/Ultraschall/US_Api_Introduction_and_Concepts.html) – DIE Ressource für jeden, der Readper/Ultraschall weiter modifizieren möchte
+- [:gb: Mespotines umfangreiche Ultraschall-API-Dokumentation](https://mespotin.uber.space/Ultraschall/US_Api_Introduction_and_Concepts.html) – DIE Ressource für jeden, der Reaper/Ultraschall weiter modifizieren möchte
 - [:gb: gPodders API-Dokumentation](https://gpoddernet.readthedocs.io/en/latest/api/) – für alle Projekte, die zufällig mal einen Online-Podcast-Synchronisationsdienst brauchen
 - [:gb: Python-Podcast-Parser (wie er beispielsweise von gPodder verwendet wird)](https://podcastparser.readthedocs.io/en/latest/) – könnte sich in einem Python-Podcast-Projekts bezahlt machen
 - [:gb: Spezifikation von PSC (Podlove Simple Chapters)](https://podlove.org/2012/03/26/simple-chapter-specification/), *DER* Kapitelmarkenstandard, bei dem alle Deutschen vor Freude durchdrehen 
