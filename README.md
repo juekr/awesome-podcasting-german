@@ -151,6 +151,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Freie Musik von The Podcast Host (Quellen-Nennung erforderlich)](https://www.thepodcasthost.com/editing-production/free-podcast-music-library/)
 - [:de: DPA Audio-Hub](https://sso.dpa-id.de/goto/register?product=dpa-Audio%20Hub): O-Töne, Interviews und Atmos von der deutschen Presseagentur (Service selbst ist kostenpflichtig!)
 - [:gb: CC0-Music von OpenGameArt](https://opengameart.org/content/cc0-music-0)
+- [:gb: Public-Domain-Musik bei FreePD](https://freepd.com/)
 
 ###### Anbieter für Audio-Bezahlinhalte
 
