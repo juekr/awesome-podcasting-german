@@ -153,6 +153,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: DPA Audio-Hub](https://sso.dpa-id.de/goto/register?product=dpa-Audio%20Hub): O-Töne, Interviews und Atmos von der deutschen Presseagentur (Service selbst ist kostenpflichtig!)
 - [:gb: CC0-Music von OpenGameArt](https://opengameart.org/content/cc0-music-0)
 - [:gb: Public-Domain-Musik bei FreePD](https://freepd.com/)
+- [:gb: BBC-Sound Library](https://sound-effects.bbcrewind.co.uk/) – bitte hier aber die [Licensing Terms](https://sound-effects.bbcrewind.co.uk/licensing) beachten.
 
 ###### Anbieter für Audio-Bezahlinhalte
 
