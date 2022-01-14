@@ -226,6 +226,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 #### ... über eingebettetes Audio und Video (und Bildmaterial)
 
 - [:gb: Headliner](https://make.headliner.app): (Teile von) Podcastepisoden ganz einfach in teilbare Videos verwandeln (auch "Audiogramme" genannt)
+- [:gb: Mediabits](https://mediabits.io/): freie Alternative zu Headliner (kein Login, kein Wasserzeichen, keine Gebühren)
 - [:gb: NY Public Radio's Programmierbibliothek, um selbst Audiogramme zu erstellen (MIT-Lizenz)](https://github.com/nypublicradio/audiogram) 
 - [:gb: FusionCast](https://fusioncast.rambo.codes/): Mac-Software für die Erstellung von Audiogrammen
 - [:de:/:gb: Podigee-Podcast-Player](https://www.podigee.com/de/podcast-player/): Open-Source-Webplayer vom deutschen Podcast-Hoster Podigee
