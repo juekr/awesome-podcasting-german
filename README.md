@@ -32,7 +32,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
     * [Podcasts produzieren](#podcasts-produzieren)
     * [Der richtige Umgang mit Episoden und ihren Metadaten](#der-richtige-umgang-mit-episoden-und-ihren-metadaten)
   * [Podcast promoten](#podcast-promoten)
-    * [... über eingebettetes Audio und Video (und Bildmaterial)](#-über-eingebettetes-audio-und-video-und-bildmaterial)
+    * [... über Webplayer und Audiogramme](#-uber-webplayer-und-audiogramme)
     * [... über Podcast-Verzeichnisse und Plattformen](#-über-podcast-verzeichnisse-und-plattformen)
     * [... über Feature-Anfragen](#-über-feature-anfragen)
     * [Dienste, die deine Chart-Position tracken](#dienste-die-deine-chart-position-tracken)
@@ -223,10 +223,12 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 ### Podcast promoten
 
-#### ... über eingebettetes Audio und Video (und Bildmaterial)
+#### ... über Webplayer und Audiogramme
 
 - [:gb: Headliner](https://make.headliner.app): (Teile von) Podcastepisoden ganz einfach in teilbare Videos verwandeln (auch "Audiogramme" genannt)
-- [:gb: Mediabits](https://mediabits.io/): freie Alternative zu Headliner (kein Login, kein Wasserzeichen, keine Gebühren)
+- [:de: Puredio](https://puredio.com/): Deutscher Anbieter von Audiogrammkonvertierung (bis Juni 2022 kostenlos)
+- [:gb: Get Audiogram](https://getaudiogram.com/): Und noch ein Audiogramm-Dienst ...
+- [:gb: Mediabits](https://mediabits.io/): freier Online-Audiogrammgenerator (kein Login, kein Wasserzeichen, keine Gebühren)
 - [:gb: NY Public Radio's Programmierbibliothek, um selbst Audiogramme zu erstellen (MIT-Lizenz)](https://github.com/nypublicradio/audiogram) 
 - [:gb: FusionCast](https://fusioncast.rambo.codes/): Mac-Software für die Erstellung von Audiogrammen
 - [:de:/:gb: Podigee-Podcast-Player](https://www.podigee.com/de/podcast-player/): Open-Source-Webplayer vom deutschen Podcast-Hoster Podigee
