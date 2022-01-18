@@ -229,6 +229,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Puredio](https://puredio.com/): Deutscher Anbieter von Audiogrammkonvertierung (bis Juni 2022 kostenlos)
 - [:gb: Get Audiogram](https://getaudiogram.com/): Und noch ein Audiogramm-Dienst ...
 - [:gb: Mediabits](https://mediabits.io/): freier Online-Audiogrammgenerator (kein Login, kein Wasserzeichen, keine Gebühren)
+- [:gb: Mediabits Editor](https://github.com/MediaBits-io/editor): Open-Source-Audigramm-Editor von Mediabits
 - [:gb: NY Public Radio's Programmierbibliothek, um selbst Audiogramme zu erstellen (MIT-Lizenz)](https://github.com/nypublicradio/audiogram) 
 - [:gb: FusionCast](https://fusioncast.rambo.codes/): Mac-Software für die Erstellung von Audiogrammen
 - [:de:/:gb: Podigee-Podcast-Player](https://www.podigee.com/de/podcast-player/): Open-Source-Webplayer vom deutschen Podcast-Hoster Podigee
