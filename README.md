@@ -69,9 +69,10 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Huffduffer](https://huffduffer.com/): Audio-Dateien aus dem Netz zusammentragen und in einem "virtuellen" Podcast-Feed abonnierbar zu machen
 - [:de: Podmash](https://podmash.com/): siehe Huffduffer; funktioniert in den meisten Fällen besser, hat aber auch so seine "Problemzönchen"
 - [:gb: Rssmix](http://www.rssmix.com/): mehrere Feeds zu einem zusammenmischen
+- [:gb: TwitchToPodcastRSS](https://github.com/madiele/TwitchToPodcastRSS): Podcastfeeds aus Twitchstreams erzeugen
 
 #### Podcasts entdecken
-- [:gb: Rephonic](https://rephonic.com/discover): Gibt Podcast ein, die du magst, und du erhältst dazu passende Vorschläge (basierend auf Apple-Podcast-Daten).
+- [:gb: Rephonic](https://rephonic.com/discover): Gib Podcasts ein, die du magst, und du erhältst dazu passende Vorschläge (basierend auf Apple-Podcast-Daten).
 - [:de: Fyyd](https://fyyd.de): unabhängige Podcast-Suchmaschine – perfekt, um Podcastepisoden zu finden und in persönlichen Feeds zu sammlen oder zu kuratieren
 
 ### Podcast-Konzepte erstellen
@@ -190,6 +191,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: podcastgenerator](https://podcastgenerator.net/): Podcasts selbst hosten mit lediglich einem PHP-fähigen Webserver (open source)
 - [:gb:/:de: Podlove Podcast Publisher](https://podlove.org/podlove-podcast-publisher/): Open-Source-Podcast-Hosting mit Wordpress (Made in Germany)
 - Anmerkung: Falls du nach einem Hoster aus Deutschland suchst, der komplett DSGVO-konform und in Kompatibilität mit dem hiesigen Steuerrecht arbeitet, schau dir doch mal [Podcaster.de](https://podcaster.de), [Letscast.fm](https://letscast.fm) oder [Stationista.de](https://www.stationista.com/de) genauer an. Podigee kann ich an dieser Stelle nicht empfehlen.
+- [:gb: Castopod](https://castopod.org/): Standalone Podcast-Hosting-Lösung, das heißt ohne Wordpress oder andere CMS (open source)
 
 ### Aufnahme und laufende Podcast-Produktion
 
@@ -211,6 +213,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - :de: Ultraschall-Handbuch: Coming soon!
 - [:de: Ultraschall-Keymap](http://files.rstockm.de/index.php/s/YxSaKR7o4EgQAA6)
 - [:de: Ultraschall-Programmfensterübersicht](https://raw.githubusercontent.com/leonidlezner/ultraschall-tutorial/main/docs/downloads/Quick-Info-Ultraschall.pdf)
+- [:gb: Loudness.fm](https://loudness.fm/): automatisches Mastering als Alternative zu Auphonic (in der Beta-Phase derzeit noch kostenlos) 
 
 #### Der richtige Umgang mit Episoden und ihren Metadaten
 
