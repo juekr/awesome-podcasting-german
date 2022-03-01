@@ -203,6 +203,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de:/:gb: Answer the public](https://answerthepublic.com/): Über ein Themengebiet relevante Fragestellungen und neue Themenideen finden – auf Basis von Suchmaschinendaten. Quasi ein "Wer sich für A interessiert, interessiert sich wahrscheinlich auf für B".
 - [:de: HalloPodcaster](https://www.hallopodcaster.de/): bringt Podcast-Produzierende mit Gästinnen und Gästen zusammen
 - [:de::headphones: FEED DIVE #3](https://feed-dive.podigee.io/3-so-fuhrst-du-spannende-podcastgesprache): Interviewheld Markus Tirko erklärt, wie du bessere Podcast-Interviews führst.
+- [:gb: Even more great interview advice](https://unmistakablecreative.com/conducting-podcast-interviews/)
 
 #### Podcasts produzieren
 
