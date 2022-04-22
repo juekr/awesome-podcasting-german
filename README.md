@@ -157,6 +157,11 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Public-Domain-Musik bei FreePD](https://freepd.com/)
 - [:gb: BBC-Sound Library](https://sound-effects.bbcrewind.co.uk/) – bitte hier aber die [Licensing Terms](https://sound-effects.bbcrewind.co.uk/licensing) beachten.
 - [:gb: Public-domain sounds from 1926](https://web.law.duke.edu/cspd/publicdomainday/2022/?utm_source=podnews.net&utm_medium=email&utm_campaign=podnews.net:2022-01-03): rund 400.000 Aufnahmen aus den Jahren vor 1923
+- [:gb: The Podcast Host Field-recording Challenge](https://academy.thepodcasthost.com/field-recording-season-challenge/): kollaborative, öffentliche Sammlung an "Field Recordings"
+- [:gb: Freesound](https://freesound.org/): der Klassiker unter den freien Musikbibliotheken
+- [:gb: Musopen](https://musopen.org/): Aufnahmen, Notenblätter, Bücher ohne Copyright
+- [:de: Audioyou](https://www.audiyou.de/freemusic/): freie Musik und Sounds für nichtkommerzielle Projekte
+- [:gb: Free Music Archive](https://freemusicarchive.org/genre/Instrumental?pageSize=200): Bibliothek an freier Musik in diversen Genres
 
 ###### Anbieter für Audio-Bezahlinhalte
 
@@ -255,6 +260,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Spotify Podcaster-Login](https://podcasters.spotify.com/)
 - [:gb: Pocket Casts Anmeldeformular](https://www.pocketcasts.com/submit/)
 - [:gb: Allgemeine Tipps zur Podcast-Promotion](https://www.podcastinsights.com/podcast-promotion/)
+- [:gb: Spotify Promotions](https://podcasters.spotify.com/blog/spotify-podcast-editorial-curation): Das Spotify-Editorial-Team erklärt hier, wie sie Podcasts auswählen, um sie redaktionell zu featuren. 
 
 #### ... über Feature-Anfragen
 
