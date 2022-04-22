@@ -66,7 +66,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 - ~~[:gb: Spotifeed](https://spotifeed.timdorr.com/): Spotify-only-Podcasts wie reguläre Podcasts per Feed abonnieren~~
 - [:gb: Getrssfeed](https://getrssfeed.com/): spuckt den RSS-Feed zu einer iTunes-, Spotify- or Webseiten-URL aus
-- [:gb: Huffduffer](https://huffduffer.com/): Audio-Dateien aus dem Netz zusammentragen und in einem "virtuellen" Podcast-Feed abonnierbar zu machen
+- [:gb: Huffduffer](https://huffduffer.com/): Audio-Dateien aus dem Netz zusammentragen und in einem "virtuellen" Podcast-Feed abonnierbar machen
 - [:de: Podmash](https://podmash.com/): siehe Huffduffer; funktioniert in den meisten Fällen besser, hat aber auch so seine "Problemzönchen"
 - [:gb: Rssmix](http://www.rssmix.com/): mehrere Feeds zu einem zusammenmischen
 - [:gb: TwitchToPodcastRSS](https://github.com/madiele/TwitchToPodcastRSS): Podcastfeeds aus Twitchstreams erzeugen
