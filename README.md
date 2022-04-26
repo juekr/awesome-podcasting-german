@@ -124,6 +124,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: UX Wind](https://uxwing.com/): freie Icons, ohne Attribution auch für kommerzielle Projekte
 - [:gb: Wordpress Photos](https://wordpress.org/photos/): eine (noch?) sehr kleine Sammlung an CC0-Bildern von Wordpress.org
 - [:gb: Artvee](https://artvee.com/): klassische Kunstwerke unter Public-Domain-Lizenz
+- [:gb: Podcast-Font](https://podcastfont.com/): freie Schriftart (steht unter AGPL3-Lizenz) mit einer Menge Icons rund um das Thema Podcasting
 
 ###### Kommerzielle Bilddatenbanken
 
