@@ -223,7 +223,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de:/:austria:/:gb: Auphonic](https://auphonic.com): automagische Post-Produktion von Ein- und Mehrspuraudio (Noise Reduction, Crosstalk Reduction, Normalizing, Leveling und mehr)
 - [:gb: Ultraschall.fm](https://ultraschall.fm): äußerst empfehlenswertes Podcast-Plugin für die DAW Reaper, das von der deutschen Community entwickelt wird (Interface auf Englisch)
 - [:de: Was gibt es Neues in Ultraschall 5?](https://sendegate.de/t/ultraschall-5-verfuegbar/13425)
-- :de: Ultraschall-Handbuch: Coming soon!
+- [:de: Ultraschall-Handbuch](https://ultraschall.github.io/ultraschall-manual/docs/GUI-overview) 
 - [:de: Ultraschall-Keymap](http://files.rstockm.de/index.php/s/YxSaKR7o4EgQAA6)
 - [:de: Ultraschall-Programmfensterübersicht](https://raw.githubusercontent.com/leonidlezner/ultraschall-tutorial/main/docs/downloads/Quick-Info-Ultraschall.pdf)
 - [:gb: Loudness.fm](https://loudness.fm/): automatisches Mastering als Alternative zu Auphonic (in der Beta-Phase derzeit noch kostenlos)
