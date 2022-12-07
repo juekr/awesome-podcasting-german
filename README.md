@@ -178,7 +178,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: DIY-Erdungskabel gegen 50-Hertz-Netzbrummen](https://sendegate.de/t/bastelecke-erdungskabel-gegen-50hz-netzbrummen/3262)
 - [:de: Ausführlicher Mikrofonvergleich (mit Podcast-Fokus)](https://sendegate.de/t/test-headsets-und-mikrofone-im-direktvergleich/2965)
 - [:de: Ausführlicher Mikrofonvergleich (mit Videotelefonie-Fokus)](https://khpape.blog/wordpress/mikrofone-fuer-videokonferenzen/)
-- [:gb_ Noch ein Mikrofon-Einkaufsratgeber](https://www.podcastinsights.com/de/best-podcast-microphones/)
+- [:gb: Noch ein Mikrofon-Einkaufsratgeber](https://www.podcastinsights.com/de/best-podcast-microphones/)
 - [:gb: Unclack (für Mac)](https://unclack.app/#/): stellt automatisch das Mikrofon stumm, während du tippst, um Störgeräusche in der Aufnahme zu vermeiden.
 - [:gb: 11 Tipps gegen Windgeräusche bei Aufnahmen draußen](https://www.videomaker.com/how-to/audio-how-to/11-ways-to-combat-wind-noise/)
 
@@ -227,6 +227,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Ultraschall-Keymap](http://files.rstockm.de/index.php/s/YxSaKR7o4EgQAA6)
 - [:de: Ultraschall-Programmfensterübersicht](https://raw.githubusercontent.com/leonidlezner/ultraschall-tutorial/main/docs/downloads/Quick-Info-Ultraschall.pdf)
 - [:gb: Loudness.fm](https://loudness.fm/): automatisches Mastering als Alternative zu Auphonic (in der Beta-Phase derzeit noch kostenlos)
+- [:gb: audapolis: Textbasierter Audio-Editor mit automatischer Transkription (gefördert vom :de: Bundesministerium für Bildung und Forschung)](https://github.com/audapolis/audapolis)
 
 #### Der richtige Umgang mit Episoden und ihren Metadaten
 
@@ -236,7 +237,6 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Das Warum und das Wie von Shownotes](https://www.vitohype.com/wiki/podcast-shownotes)
 - [:gb: Wie schreibst du Episoden-Texte, die tatsächlich auch jemand lesen will](https://rachelcorbett.com.au/podcast-description/)
 - [:de: Warum auch bei Podcasts SEO eine Rolle spielt](https://www.podigee.com/de/blog/podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/) ([Teil 2](https://www.podigee.com/de/blog/teil-2-podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/), [Teil 3](https://www.podigee.com/de/blog/teil-3-podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/) und [Teil 4](https://www.podigee.com/de/blog/teil-4-podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/))
-- [:gb: audapolis: Textbasierter Audio-Editor mit automatischer Transkription (gefördert vom :de: Bundesministerium für Bildung und Forschung)](https://github.com/audapolis/audapolis)
 
 ### Podcast promoten
 
