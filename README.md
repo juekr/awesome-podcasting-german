@@ -236,6 +236,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Das Warum und das Wie von Shownotes](https://www.vitohype.com/wiki/podcast-shownotes)
 - [:gb: Wie schreibst du Episoden-Texte, die tatsächlich auch jemand lesen will](https://rachelcorbett.com.au/podcast-description/)
 - [:de: Warum auch bei Podcasts SEO eine Rolle spielt](https://www.podigee.com/de/blog/podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/) ([Teil 2](https://www.podigee.com/de/blog/teil-2-podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/), [Teil 3](https://www.podigee.com/de/blog/teil-3-podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/) und [Teil 4](https://www.podigee.com/de/blog/teil-4-podcast-seo-so-erh%C3%B6hst-du-strategisch-deine-reichweite-und-bekanntheit/))
+- [:gb: audapolis: Textbasierter Audio-Editor mit automatischer Transkription (gefördert vom :de: Bundesministerium für Bildung und Forschung)](https://github.com/audapolis/audapolis)
 
 ### Podcast promoten
 
