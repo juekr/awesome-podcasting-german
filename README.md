@@ -311,7 +311,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Feedrabbit](https://feedrabbit.com/): ein Dienst, der dir Feed-Items via E-Mail zuschickt (etwa zur Archivierung oder zur Benachrichtigung bei Kommentaren)
 - [:gb: Pipes digital](https://www.pipes.digital/): der spirituelle Nachfolger von Yahoo Pipes
 - [:gb: Spotifys Podcast-API](https://podcasters.spotify.com/blog/spotify-introduces-new-podcast-api)
-- [:gb: Podcastindex](https://podcastindex-org.github.io/docs-api/#overview--overview): API für Podcast-Suchen
+- [:gb: Podcastindex](https://podcastindex-org.github.io/docs-api/#overview--overview): kostenlose API für Podcast-Suchen
 
 ### DIY-Feeds für Charts und Bewertungen
 
