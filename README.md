@@ -228,6 +228,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Ultraschall-Programmfensterübersicht](https://raw.githubusercontent.com/leonidlezner/ultraschall-tutorial/main/docs/downloads/Quick-Info-Ultraschall.pdf)
 - [:gb: Loudness.fm](https://loudness.fm/): automatisches Mastering als Alternative zu Auphonic (in der Beta-Phase derzeit noch kostenlos)
 - [:gb: audapolis: Textbasierter Audio-Editor mit automatischer Transkription (gefördert vom :de: Bundesministerium für Bildung und Forschung)](https://github.com/audapolis/audapolis)
+- [:gb: Whisper](https://github.com/openai/whisper): OpenAIs Open-Source-KI für Transkription in verschiedenen Sprachen
 
 #### Der richtige Umgang mit Episoden und ihren Metadaten
 
