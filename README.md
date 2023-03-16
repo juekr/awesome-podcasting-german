@@ -314,6 +314,14 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Spotifys Podcast-API](https://podcasters.spotify.com/blog/spotify-introduces-new-podcast-api)
 - [:gb: Podcastindex](https://podcastindex-org.github.io/docs-api/#overview--overview): kostenlose API für Podcast-Suchen
 
+### Apple API für die Suche nach Podcasts
+
+Die Dokumentation und Beispiele findest du [direkt bei Apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1), aber ein kurzes Beispiel:   
+
+`https://itunes.apple.com/search?term=Schmerzenssache%20%E2%80%93%20weil%20R%C3%BCckenschmerzen%20kein%20Tabuthema%20sind&entity=podcast`
+
+Leider spuckt die Suche nach einer Feed-URL keine Ergebnisse aus, damit bleiben die Suchergebnisse immer etwas _unscharf_.
+
 ### DIY-Feeds für Charts und Bewertungen
 
 #### Podcast-Bewertungen (deine oder die von jemand anderem)
