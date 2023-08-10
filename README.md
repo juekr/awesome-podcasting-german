@@ -166,6 +166,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Musopen](https://musopen.org/): Aufnahmen, Notenblätter, Bücher ohne Copyright
 - [:de: Audioyou](https://www.audiyou.de/freemusic/): freie Musik und Sounds für nichtkommerzielle Projekte
 - [:gb: Free Music Archive](https://freemusicarchive.org/genre/Instrumental?pageSize=200): Bibliothek an freier Musik in diversen Genres
+- [:de: Lizenzfreie Musik bei Pixabay](https://pixabay.com/de/music/search/)
 
 ###### Anbieter für Audio-Bezahlinhalte
 
