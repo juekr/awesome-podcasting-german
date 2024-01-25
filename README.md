@@ -11,7 +11,6 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
       - [Den richtigen Podcatcher finden](#den-richtigen-podcatcher-finden)
       - [Werkzeuge](#werkzeuge)
       - [Podcasts entdecken](#podcasts-entdecken)
-      - [ARD-Audiothek als Podcast-Feed](https://github.com/matztam/ARD-Audiothek-RSS)
     - [Podcast-Konzepte erstellen](#podcast-konzepte-erstellen)
       - [Konzept und Planung](#konzept-und-planung)
         - [Vorüberlegungen zu Konzept, Publikum und Nischen](#vorüberlegungen-zu-konzept-publikum-und-nischen)
@@ -73,6 +72,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:de: Podmash](https://podmash.com/): siehe Huffduffer; funktioniert in den meisten Fällen besser, hat aber auch so seine "Problemzönchen"
 - [:gb: Rssmix](http://www.rssmix.com/): mehrere Feeds zu einem zusammenmischen
 - [:gb: TwitchToPodcastRSS](https://github.com/madiele/TwitchToPodcastRSS): Podcastfeeds aus Twitchstreams erzeugen
+- [:de: ARD-Audiothek-RSS](https://github.com/matztam/ARD-Audiothek-RSS): Podcastfeeds aus der ARD-Audiothek
 
 #### Podcasts entdecken
 
