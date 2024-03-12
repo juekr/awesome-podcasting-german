@@ -294,6 +294,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 
 - [:gb: Wie du mit XML-Stylesheets (XLST) jeden RSS-Feed gestaltest](https://www.bennadel.com/blog/3770-using-xslt-and-xml-transformations-to-style-my-blogs-rss-feed-as-an-html-page.htm) – ein ganz gutes Beispiel, wie das bei einem Podcast aussehen kann: [Podcast-Feed von "Reden ist Geld" (Detektor FM)](https://feedpress.me/detektorfm_reden-ist-geld)
 - :de: Der Hoster [Let's Cast](https://letscast.fm) bereitet Feeds automatisch mit schön dargestellten Shownotes und eingebetteten Playern auf – [ein Beispiel](https://das-a.ch/feed/mp3)
+- [:gb: MonitoRSS](https://monitorss.xyz/) in open-source Discord-Bot der Einträge von RSS-Feeds veröffentlicht
 
 ## Podcasting-Jobs
 
