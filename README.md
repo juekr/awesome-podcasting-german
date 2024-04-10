@@ -269,6 +269,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Pocket Casts Anmeldeformular](https://www.pocketcasts.com/submit/)
 - [:gb: Allgemeine Tipps zur Podcast-Promotion](https://www.podcastinsights.com/podcast-promotion/)
 - [:gb: Spotify Promotions](https://podcasters.spotify.com/blog/spotify-podcast-editorial-curation): Das Spotify-Editorial-Team erklärt hier, wie sie Podcasts auswählen, um sie redaktionell zu featuren.
+- [:de: Spotify: Podcast für Promo vorschlagen](https://airtable.com/appcGzxMbacLKKB7X/shrTIFJdmAOajmEuf): Spotify hat ein Formular, mit dem du deinen Podcast für redaktionelles Featuren vorschlagen kannst.
 
 #### ... über Feature-Anfragen
 
