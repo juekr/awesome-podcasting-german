@@ -73,6 +73,8 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 - [:gb: Rssmix](http://www.rssmix.com/): mehrere Feeds zu einem zusammenmischen
 - [:gb: TwitchToPodcastRSS](https://github.com/madiele/TwitchToPodcastRSS): Podcastfeeds aus Twitchstreams erzeugen
 - [:de: ARD-Audiothek-RSS](https://github.com/matztam/ARD-Audiothek-RSS): Podcastfeeds aus der ARD-Audiothek
+- [:gb: Poddl](https://github.com/freshe/poddl): ein Podcast-Downloader für die Kommandozeile
+- [:gb: Podcast-dl]([https://github.com/freshe/poddl](https://github.com/lightpohl/podcast-dl)): noch ein Podcast-Downloader für die Kommandozeile
 
 #### Podcasts entdecken
 
