@@ -7,6 +7,7 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 <!---toc start-->
 - [Eine Podcasting-Linksammlung? Awesome!](#eine-podcasting-linksammlung-awesome)
   - [Linksammlung](#linksammlung)
+    - [Zahlen, Daten, Studien](#zahlen-daten-studien)
     - [Podcasts hören](#podcasts-hören)
       - [Den richtigen Podcatcher finden](#den-richtigen-podcatcher-finden)
       - [Werkzeuge](#werkzeuge)
@@ -56,6 +57,10 @@ von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
 ## Linksammlung
 
 ### Podcasts hören
+
+#### Zahlen, Daten, Studien
+
+- [:gb: Podcast Industry Data](https://podcastbusinessjournal.com/data)
 
 #### Den richtigen Podcatcher finden
 
