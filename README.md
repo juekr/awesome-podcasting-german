@@ -367,103 +367,97 @@ PS: Apple hat auch einen Feed-Generator für allgemeine, kategorieübergreifende
 
 #### Apples Podcast-Kategorie-IDs
 
-| ID       | Kategorie                                                     | Charts (json)                                                |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **1301** | **[Kunst](https://podcasts.apple.com/de/genre/podcasts-kunst/id1301)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1301/limit=200/json) |
-| 1402     | &nbsp;&nbsp;&nbsp;&nbsp;[Design](https://podcasts.apple.com/de/genre/podcasts-kunst-design/id1402) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1402/limit=200/json) |
-| 1459     | &nbsp;&nbsp;&nbsp;&nbsp;[Mode und Schönheit](https://podcasts.apple.com/de/genre/podcasts-kunst-mode-und-sch%C3%B6nheit/id1459) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1459/limit=200/json) |
-| 1306     | &nbsp;&nbsp;&nbsp;&nbsp;[Essen](https://podcasts.apple.com/de/genre/podcasts-kunst-essen/id1306) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1306/limit=200/json) |
-| 1405     | &nbsp;&nbsp;&nbsp;&nbsp;[Darstellende Kunst](https://podcasts.apple.com/de/genre/podcasts-kunst-darstellende-kunst/id1405) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1405/limit=200/json) |
-| 1406     | &nbsp;&nbsp;&nbsp;&nbsp;[Bildende Kunst](https://podcasts.apple.com/de/genre/podcasts-kunst-bildende-kunst/id1406) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1406/limit=200/json) |
-| **1321** | **[Wirtschaft](https://podcasts.apple.com/de/genre/podcasts-wirtschaft/id1321)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1321/limit=200/json) |
-| 1493     | &nbsp;&nbsp;&nbsp;&nbsp;[Firmengründung](https://podcasts.apple.com/de/genre/podcasts-wirtschaft-firmengr%C3%BCndung/id1493) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1493/limit=200/json) |
-| 1412     | &nbsp;&nbsp;&nbsp;&nbsp;[Geldanlage](https://podcasts.apple.com/de/genre/podcasts-wirtschaft-geldanlage/id1412) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1412/limit=200/json) |
-| 1491     | &nbsp;&nbsp;&nbsp;&nbsp;[Management](https://podcasts.apple.com/de/genre/podcasts-wirtschaft-management/id1491) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1491/limit=200/json) |
-| 1492     | &nbsp;&nbsp;&nbsp;&nbsp;[Marketing](https://podcasts.apple.com/de/genre/podcasts-wirtschaft-marketing/id1492) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1492/limit=200/json) |
-| 1494     | &nbsp;&nbsp;&nbsp;&nbsp;[Gemeinnützig](https://podcasts.apple.com/de/genre/podcasts-wirtschaft-gemeinn%C3%BCtzig/id1494) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1494/limit=200/json) |
-| **1303** | **[Comedy](https://podcasts.apple.com/de/genre/podcasts-comedy/id1303)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1303/limit=200/json) |
-| 1495     | &nbsp;&nbsp;&nbsp;&nbsp;[Impro-Comedy](https://podcasts.apple.com/de/genre/podcasts-comedy-impro-comedy/id1495) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1495/limit=200/json) |
-| 1497     | &nbsp;&nbsp;&nbsp;&nbsp;[Stand-Up-Comedy](https://podcasts.apple.com/de/genre/podcasts-comedy-stand-up-comedy/id1497) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1497/limit=200/json) |
-| **1304** | **[Bildung](https://podcasts.apple.com/de/genre/podcasts-bildung/id1304)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1304/limit=200/json) |
-| 1499     | &nbsp;&nbsp;&nbsp;&nbsp;[So geht’s](https://podcasts.apple.com/de/genre/podcasts-bildung-so-gehts/id1499) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1499/limit=200/json) |
-| 1498     | &nbsp;&nbsp;&nbsp;&nbsp;[Sprachen lernen](https://podcasts.apple.com/de/genre/podcasts-bildung-sprachen-lernen/id1498) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1498/limit=200/json) |
-| 1500     | &nbsp;&nbsp;&nbsp;&nbsp;[Selbstverwirklichung](https://podcasts.apple.com/de/genre/podcasts-bildung-selbstverwirklichung/id1500) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1500/limit=200/json) |
-| **1483** | **[Fiktion](https://podcasts.apple.com/de/genre/podcasts-fiktion/id1483)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1483/limit=200/json) |
-| 1484     | &nbsp;&nbsp;&nbsp;&nbsp;[Drama](https://podcasts.apple.com/de/genre/podcasts-fiktion-drama/id1484) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1484/limit=200/json) |
-| 1485     | &nbsp;&nbsp;&nbsp;&nbsp;[Science-Fiction](https://podcasts.apple.com/de/genre/podcasts-fiktion-science-fiction/id1485) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1485/limit=200/json) |
-| **1511** | **[Regierung](https://podcasts.apple.com/de/genre/podcasts-regierung/id1511)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1511/limit=200/json) |
-| **1512** | **[Gesundheit und Fitness](https://podcasts.apple.com/de/genre/podcasts-gesundheit-und-fitness/id1512)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1512/limit=200/json) |
-| 1514     | &nbsp;&nbsp;&nbsp;&nbsp;[Fitness](https://podcasts.apple.com/de/genre/podcasts-fitness/id1514) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1514/limit=200/json) |
-| 1518     | &nbsp;&nbsp;&nbsp;&nbsp;[Medizin](https://podcasts.apple.com/de/genre/podcasts-medizin/id1518) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1518/limit=200/json) |
-| 1517     | &nbsp;&nbsp;&nbsp;&nbsp;[Mentale Gesundheit](https://podcasts.apple.com/de/genre/podcasts-mentale-gesundheit/id1517) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1517/limit=200/json) |
-| 1515     | &nbsp;&nbsp;&nbsp;&nbsp;[Ernährung](https://podcasts.apple.com/de/genre/podcasts-ern%C3%A4hrung/id1515) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1515/limit=200/json) |
-| 1516     | &nbsp;&nbsp;&nbsp;&nbsp;[Sexualität](https://podcasts.apple.com/de/genre/podcasts-sexualit%C3%A4t/id1516) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1516/limit=200/json) |
-| **1487** | **[Geschichte](https://podcasts.apple.com/de/genre/podcasts-geschichte/id1487)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1487/limit=200/json) |
-| **1305** | **[Kinder und Familie](https://podcasts.apple.com/de/genre/podcasts-kinder-und-familie/id1305)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1305/limit=200/json) |
-| 1521     | &nbsp;&nbsp;&nbsp;&nbsp;[Kindererziehung](https://podcasts.apple.com/de/genre/podcasts-kinder-und-familie-kindererziehung/id1521) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1521/limit=200/json) |
-| 1522     | &nbsp;&nbsp;&nbsp;&nbsp;[Haus- und Wildtiere](https://podcasts.apple.com/de/genre/podcasts-kinder-und-familie-haus-und-wildtiere/id1522) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1522/limit=200/json) |
-| 1520     | &nbsp;&nbsp;&nbsp;&nbsp;[Geschichten für Kids](https://podcasts.apple.com/de/genre/podcasts-kinder-und-familie-geschichten-f%C3%BCr-kids/id1520) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1520/limit=200/json) |
-| **1502** | **[Freizeit](https://podcasts.apple.com/de/genre/podcasts-freizeit/id1502)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1502/limit=200/json) |
-| 1503     | &nbsp;&nbsp;&nbsp;&nbsp;[Rund ums Auto](https://podcasts.apple.com/de/genre/podcasts-freizeit-rund-ums-auto/id1503) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1503/limit=200/json) |
-| 1504     | &nbsp;&nbsp;&nbsp;&nbsp;[Luftfahrt](https://podcasts.apple.com/de/genre/podcasts-freizeit-luftfahrt/id1504) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1504/limit=200/json) |
-| 1506     | &nbsp;&nbsp;&nbsp;&nbsp;[Basteln](https://podcasts.apple.com/de/genre/podcasts-freizeit-basteln/id1506) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1506/limit=200/json) |
-| 1507     | &nbsp;&nbsp;&nbsp;&nbsp;[Spiele](https://podcasts.apple.com/de/genre/podcasts-freizeit-spiele/id1507) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1507/limit=200/json) |
-| 1505     | &nbsp;&nbsp;&nbsp;&nbsp;[Hobbys](https://podcasts.apple.com/de/genre/podcasts-freizeit-hobbys/id1505) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1505/limit=200/json) |
-| 1508     | &nbsp;&nbsp;&nbsp;&nbsp;[Heim und Garten](https://podcasts.apple.com/de/genre/podcasts-freizeit-heim-und-garten/id1508) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1508/limit=200/json) |
-| 1509     | &nbsp;&nbsp;&nbsp;&nbsp;[Videospiele](https://podcasts.apple.com/de/genre/podcasts-freizeit-videospiele/id1509) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1509/limit=200/json) |
-| **1310** | **[Musik](https://podcasts.apple.com/de/genre/podcasts-musik/id1310)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1310/limit=200/json) |
-| 1524     | &nbsp;&nbsp;&nbsp;&nbsp;[Musikgeschichte](https://podcasts.apple.com/de/genre/podcasts-musik-musikgeschichte/id1524) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1524/limit=200/json) |
-| 1525     | &nbsp;&nbsp;&nbsp;&nbsp;[Musikinterviews](https://podcasts.apple.com/de/genre/podcasts-musik-musikinterviews/id1525) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1525/limit=200/json) |
-| **1489** | **[Nachrichten](https://podcasts.apple.com/de/genre/podcasts-nachrichten/id1489)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1489/limit=200/json) |
-| 1526     | &nbsp;&nbsp;&nbsp;&nbsp;[Nachrichten des Tages](https://podcasts.apple.com/de/genre/podcasts-nachrichten-nachrichten-des-tages/id1526) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1526/limit=200/json) |
-| 1531     | &nbsp;&nbsp;&nbsp;&nbsp;[Aktuelles aus der Unterhaltung](https://podcasts.apple.com/de/genre/podcasts-nachrichten-aktuelles-aus-der-unterhaltung/id1531) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1531/limit=200/json) |
-| 1530     | &nbsp;&nbsp;&nbsp;&nbsp;[Kommentare](https://podcasts.apple.com/de/genre/podcasts-nachrichten-kommentare/id1530) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1530/limit=200/json) |
-| 1527     | &nbsp;&nbsp;&nbsp;&nbsp;[Politik](https://podcasts.apple.com/de/genre/podcasts-nachrichten-politik/id1527) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1527/limit=200/json) |
-| 1529     | &nbsp;&nbsp;&nbsp;&nbsp;[Sportnews](https://podcasts.apple.com/de/genre/podcasts-nachrichten-sportnews/id1529) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1529/limit=200/json) |
-| 1528     | &nbsp;&nbsp;&nbsp;&nbsp;[Neues aus der Technik](https://podcasts.apple.com/de/genre/podcasts-nachrichten-neues-aus-der-technik/id1528) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1528/limit=200/json) |
-| **1314** | **[Religion und Spiritualität](https://podcasts.apple.com/de/genre/podcasts-religion-und-spiritualit%C3%A4t/id1314)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1314/limit=200/json) |
-| 1439     | &nbsp;&nbsp;&nbsp;&nbsp;[Christentum](https://podcasts.apple.com/de/genre/podcasts-christentum/id1439) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1439/limit=200/json) |
-| 1463     | &nbsp;&nbsp;&nbsp;&nbsp;[Hinduismus](https://podcasts.apple.com/de/genre/podcasts-hinduismus/id1463) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1463/limit=200/json) |
-| 1440     | &nbsp;&nbsp;&nbsp;&nbsp;[Islam](https://podcasts.apple.com/de/genre/podcasts-islam/id1440) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1440/limit=200/json) |
-| 1441     | &nbsp;&nbsp;&nbsp;&nbsp;[Judentum](https://podcasts.apple.com/de/genre/podcasts-judentum/id1441) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1441/limit=200/json) |
-| 1532     | &nbsp;&nbsp;&nbsp;&nbsp;[Religion](https://podcasts.apple.com/de/genre/podcasts-religion/id1532) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1532/limit=200/json) |
-| 1444     | &nbsp;&nbsp;&nbsp;&nbsp;[Spiritualität](https://podcasts.apple.com/de/genre/podcasts-spiritualit%C3%A4t/id1444) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1444/limit=200/json) |
-| **1533** | **[Wissenschaft](https://podcasts.apple.com/de/genre/podcasts-wissenschaft/id1533)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1533/limit=200/json) |
-| 1539     | &nbsp;&nbsp;&nbsp;&nbsp;[Chemie](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-chemie/id1539) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1539/limit=200/json) |
-| 1540     | &nbsp;&nbsp;&nbsp;&nbsp;[Geowissenschaften](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-geowissenschaften/id1540) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1540/limit=200/json) |
-| 1541     | &nbsp;&nbsp;&nbsp;&nbsp;[Biowissenschaften](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-biowissenschaften/id1541) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1541/limit=200/json) |
-| 1536     | &nbsp;&nbsp;&nbsp;&nbsp;[Mathematik](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-mathematik/id1536) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1536/limit=200/json) |
-| 1534     | &nbsp;&nbsp;&nbsp;&nbsp;[Naturwissenschaften](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-naturwissenschaften/id1534) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1534/limit=200/json) |
-| 1537     | &nbsp;&nbsp;&nbsp;&nbsp;[Natur](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-natur/id1537) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1537/limit=200/json) |
-| 1542     | &nbsp;&nbsp;&nbsp;&nbsp;[Physik](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-physik/id1542) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1542/limit=200/json) |
-| 1535     | &nbsp;&nbsp;&nbsp;&nbsp;[Sozialwissenschaften](https://podcasts.apple.com/de/genre/podcasts-wissenschaft-sozialwissenschaften/id1535) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1535/limit=200/json) |
-| **1324** | **[Gesellschaft und Kultur](https://podcasts.apple.com/de/genre/podcasts-gesellschaft-und-kultur/id1324)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1324/limit=200/json) |
-| 1302     | &nbsp;&nbsp;&nbsp;&nbsp;[Tagebücher](https://podcasts.apple.com/de/genre/podcasts-tageb%C3%BCcher/id1302) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1302/limit=200/json) |
-| 1443     | &nbsp;&nbsp;&nbsp;&nbsp;[Philosophie](https://podcasts.apple.com/de/genre/podcasts-philosophie/id1443) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1443/limit=200/json) |
-| 1320     | &nbsp;&nbsp;&nbsp;&nbsp;[Reisen und Orte](https://podcasts.apple.com/de/genre/podcasts-reisen-und-orte/id1320) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1320/limit=200/json) |
-| 1544     | &nbsp;&nbsp;&nbsp;&nbsp;[Beziehungen](https://podcasts.apple.com/de/genre/podcasts-beziehungen/id1544) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1544/limit=200/json) |
-| **1545** | **[Sport](https://podcasts.apple.com/de/genre/podcasts-sport/id1545)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1545/limit=200/json) |
-| 1548     | &nbsp;&nbsp;&nbsp;&nbsp;[Basketball](https://podcasts.apple.com/de/genre/podcasts-sport-basketball/id1548) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1548/limit=200/json) |
-| 1554     | &nbsp;&nbsp;&nbsp;&nbsp;[Cricket](https://podcasts.apple.com/de/genre/podcasts-sport-cricket/id1554) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1554/limit=200/json) |
-| 1560     | &nbsp;&nbsp;&nbsp;&nbsp;[Fantasy Sport](https://podcasts.apple.com/de/genre/podcasts-sport-fantasy-sport/id1560) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1560/limit=200/json) |
-| 1547     | &nbsp;&nbsp;&nbsp;&nbsp;[Football](https://podcasts.apple.com/de/genre/podcasts-sport-football/id1547) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1547/limit=200/json) |
-| 1553     | &nbsp;&nbsp;&nbsp;&nbsp;[Golf](https://podcasts.apple.com/de/genre/podcasts-sport-golf/id1553) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1553/limit=200/json) |
-| 1550     | &nbsp;&nbsp;&nbsp;&nbsp;[Eishockey](https://podcasts.apple.com/de/genre/podcasts-sport-eishockey/id1550) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1550/limit=200/json) |
-| 1552     | &nbsp;&nbsp;&nbsp;&nbsp;[Rugby](https://podcasts.apple.com/de/genre/podcasts-sport-rugby/id1552) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1552/limit=200/json) |
-| 1551     | &nbsp;&nbsp;&nbsp;&nbsp;[Läufer](https://podcasts.apple.com/de/genre/podcasts-sport-l%C3%A4ufer/id1551) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1551/limit=200/json) |
-| 1546     | &nbsp;&nbsp;&nbsp;&nbsp;[Fußball](https://podcasts.apple.com/de/genre/podcasts-sport-fu%C3%9Fball/id1546) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1546/limit=200/json) |
-| 1558     | &nbsp;&nbsp;&nbsp;&nbsp;[Schwimmen](https://podcasts.apple.com/de/genre/podcasts-sport-schwimmen/id1558) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1558/limit=200/json) |
-| 1556     | &nbsp;&nbsp;&nbsp;&nbsp;[Tennis](https://podcasts.apple.com/de/genre/podcasts-sport-tennis/id1556) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1556/limit=200/json) |
-| 1557     | &nbsp;&nbsp;&nbsp;&nbsp;[Volleyball](https://podcasts.apple.com/de/genre/podcasts-sport-volleyball/id1557) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1557/limit=200/json) |
-| 1559     | &nbsp;&nbsp;&nbsp;&nbsp;[Abenteuer Natur](https://podcasts.apple.com/de/genre/podcasts-sport-abenteuer-natur/id1559) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1559/limit=200/json) |
-| 1555     | &nbsp;&nbsp;&nbsp;&nbsp;[Wrestling](https://podcasts.apple.com/de/genre/podcasts-sport-wrestling/id1555) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1555/limit=200/json) |
-| **1309** | **[TV und Film](https://podcasts.apple.com/de/genre/podcasts-tv-und-film/id1309)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1309/limit=200/json) |
-| 1564     | &nbsp;&nbsp;&nbsp;&nbsp;[Filmgeschichte](https://podcasts.apple.com/de/genre/podcasts-tv-und-film-filmgeschichte/id1564) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1564/limit=200/json) |
-| 1565     | &nbsp;&nbsp;&nbsp;&nbsp;[Filminterviews](https://podcasts.apple.com/de/genre/podcasts-tv-und-film-filminterviews/id1565) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1565/limit=200/json) |
-| 1563     | &nbsp;&nbsp;&nbsp;&nbsp;[Filmrezensionen](https://podcasts.apple.com/de/genre/podcasts-tv-und-film-filmrezensionen/id1563) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1563/limit=200/json) |
-| 1561     | &nbsp;&nbsp;&nbsp;&nbsp;[TV-Rezensionen](https://podcasts.apple.com/de/genre/podcasts-tv-und-film-tv-rezensionen/id1561) | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1561/limit=200/json) |
-| **1318** | **[Technologie](https://podcasts.apple.com/de/genre/podcasts-technologie/id1318)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1318/limit=200/json) |
-| **1488** | **[Wahre Kriminalfälle](https://podcasts.apple.com/de/genre/podcasts-wahre-kriminalf%C3%A4lle/id1488)** | [Top 200 (de)](http://itunes.apple.com/de/rss/toppodcasts/genre=1488/limit=200/json) |
+| id | parent | category (en) | category (de) | json charts url (de) | url (de) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1301 | - | **Arts** | **Kunst** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1301/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1301) |
+| 1482 | 1301 | &nbsp;&nbsp;&nbsp;Books | &nbsp;&nbsp;&nbsp;Bücher | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1482/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1482) |
+| 1402 | 1301 | &nbsp;&nbsp;&nbsp;Design | &nbsp;&nbsp;&nbsp;Design | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1402/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1402) |
+| 1459 | 1301 | &nbsp;&nbsp;&nbsp;Fashion & Beauty | &nbsp;&nbsp;&nbsp;Mode und Schönheit | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1459/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1459) |
+| 1306 | 1301 | &nbsp;&nbsp;&nbsp;Food | &nbsp;&nbsp;&nbsp;Essen | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1306/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1306) |
+| 1405 | 1301 | &nbsp;&nbsp;&nbsp;Performing Arts | &nbsp;&nbsp;&nbsp;Darstellende Kunst | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1405/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1405) |
+| 1303 | - | **Comedy** | **Comedy** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1303/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1303) |
+| 1496 | 1303 | &nbsp;&nbsp;&nbsp;Comedy Interviews | &nbsp;&nbsp;&nbsp;Comedy-Interviews | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1496/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1496) |
+| 1495 | 1303 | &nbsp;&nbsp;&nbsp;Improv | &nbsp;&nbsp;&nbsp;Impro-Comedy | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1495/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1495) |
+| 1497 | 1303 | &nbsp;&nbsp;&nbsp;Stand-Up | &nbsp;&nbsp;&nbsp;Stand-Up-Comedy | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1497/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1497) |
+| 1304 | - | **Education** | **Bildung** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1304/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1304) |
+| 1501 | 1304 | &nbsp;&nbsp;&nbsp;Courses | &nbsp;&nbsp;&nbsp;Kurse | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1501/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1501) |
+| 1499 | 1304 | &nbsp;&nbsp;&nbsp;How To | &nbsp;&nbsp;&nbsp;So geht’s | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1499/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1499) |
+| 1498 | 1304 | &nbsp;&nbsp;&nbsp;Language Learning | &nbsp;&nbsp;&nbsp;Sprachen lernen | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1498/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1498) |
+| 1500 | 1304 | &nbsp;&nbsp;&nbsp;Self-Improvement | &nbsp;&nbsp;&nbsp;Selbstverwirklichung | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1500/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1500) |
+| 1305 | - | **Kids & Family** | **Kinder und Familie** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1305/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1305) |
+| 1309 | - | **TV & Film** | **TV und Film** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1309/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1309) |
+| 1562 | 1309 | &nbsp;&nbsp;&nbsp;After Shows | &nbsp;&nbsp;&nbsp;Backstage | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1562/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1562) |
+| 1564 | 1309 | &nbsp;&nbsp;&nbsp;Film History | &nbsp;&nbsp;&nbsp;Filmgeschichte | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1564/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1564) |
+| 1565 | 1309 | &nbsp;&nbsp;&nbsp;Film Interviews | &nbsp;&nbsp;&nbsp;Filminterviews | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1565/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1565) |
+| 1563 | 1309 | &nbsp;&nbsp;&nbsp;Film Reviews | &nbsp;&nbsp;&nbsp;Filmrezensionen | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1563/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1563) |
+| 1561 | 1309 | &nbsp;&nbsp;&nbsp;TV Reviews | &nbsp;&nbsp;&nbsp;TV-Rezensionen | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1561/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1561) |
+| 1310 | - | **Music** | **Musik** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1310/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1310) |
+| 1523 | 1310 | &nbsp;&nbsp;&nbsp;Music Commentary | &nbsp;&nbsp;&nbsp;Musikrezensionen | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1523/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1523) |
+| 1524 | 1310 | &nbsp;&nbsp;&nbsp;Music History | &nbsp;&nbsp;&nbsp;Musikgeschichte | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1524/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1524) |
+| 1525 | 1310 | &nbsp;&nbsp;&nbsp;Music Interviews | &nbsp;&nbsp;&nbsp;Musikinterviews | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1525/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1525) |
+| 1314 | - | **Religion & Spirituality** | **Religion und Spiritualität** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1314/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1314) |
+| 1438 | 1314 | &nbsp;&nbsp;&nbsp;Buddhism | &nbsp;&nbsp;&nbsp;Buddhismus | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1438/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1438) |
+| 1439 | 1314 | &nbsp;&nbsp;&nbsp;Christianity | &nbsp;&nbsp;&nbsp;Christentum | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1439/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1439) |
+| 1463 | 1314 | &nbsp;&nbsp;&nbsp;Hinduism | &nbsp;&nbsp;&nbsp;Hinduismus | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1463/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1463) |
+| 1440 | 1314 | &nbsp;&nbsp;&nbsp;Islam | &nbsp;&nbsp;&nbsp;Islam | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1440/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1440) |
+| 1441 | 1314 | &nbsp;&nbsp;&nbsp;Judaism | &nbsp;&nbsp;&nbsp;Judentum | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1441/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1441) |
+| 1318 | - | **Technology** | **Technologie** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1318/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1318) |
+| 1321 | - | **Business** | **Wirtschaft** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1321/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1321) |
+| 1410 | 1321 | &nbsp;&nbsp;&nbsp;Careers | &nbsp;&nbsp;&nbsp;Karriere | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1410/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1410) |
+| 1493 | 1321 | &nbsp;&nbsp;&nbsp;Entrepreneurship | &nbsp;&nbsp;&nbsp;Firmengründung | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1493/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1493) |
+| 1412 | 1321 | &nbsp;&nbsp;&nbsp;Investing | &nbsp;&nbsp;&nbsp;Geldanlage | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1412/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1412) |
+| 1491 | 1321 | &nbsp;&nbsp;&nbsp;Management | &nbsp;&nbsp;&nbsp;Management | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1491/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1491) |
+| 1492 | 1321 | &nbsp;&nbsp;&nbsp;Marketing | &nbsp;&nbsp;&nbsp;Marketing | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1492/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1492) |
+| 1324 | - | **Society & Culture** | **Gesellschaft und Kultur** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1324/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1324) |
+| 1543 | 1324 | &nbsp;&nbsp;&nbsp;Documentary | &nbsp;&nbsp;&nbsp;Dokumentation | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1543/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1543) |
+| 1302 | 1324 | &nbsp;&nbsp;&nbsp;Personal Journals | &nbsp;&nbsp;&nbsp;Tagebücher | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1302/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1302) |
+| 1443 | 1324 | &nbsp;&nbsp;&nbsp;Philosophy | &nbsp;&nbsp;&nbsp;Philosophie | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1443/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1443) |
+| 1320 | 1324 | &nbsp;&nbsp;&nbsp;Places & Travel | &nbsp;&nbsp;&nbsp;Reisen und Orte | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1320/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1320) |
+| 1544 | 1324 | &nbsp;&nbsp;&nbsp;Relationships | &nbsp;&nbsp;&nbsp;Beziehungen | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1544/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1544) |
+| 1483 | - | **Fiction** | **Fiktion** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1483/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1483) |
+| 1486 | 1483 | &nbsp;&nbsp;&nbsp;Comedy Fiction | &nbsp;&nbsp;&nbsp;Comedy-Fiction | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1486/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1486) |
+| 1484 | 1483 | &nbsp;&nbsp;&nbsp;Drama | &nbsp;&nbsp;&nbsp;Drama | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1484/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1484) |
+| 1485 | 1483 | &nbsp;&nbsp;&nbsp;Science Fiction | &nbsp;&nbsp;&nbsp;Science-Fiction | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1485/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1485) |
+| 1487 | - | **History** | **Geschichte** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1487/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1487) |
+| 1488 | - | **True Crime** | **Wahre Kriminalfälle** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1488/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1488) |
+| 1489 | - | **News** | **Nachrichten** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1489/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1489) |
+| 1490 | 1489 | &nbsp;&nbsp;&nbsp;Business News | &nbsp;&nbsp;&nbsp;Wirtschaftsnachrichten | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1490/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1490) |
+| 1531 | 1489 | &nbsp;&nbsp;&nbsp;Entertainment News | &nbsp;&nbsp;&nbsp;Neues aus der Unterhaltung | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1531/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1531) |
+| 1529 | 1489 | &nbsp;&nbsp;&nbsp;Sports News | &nbsp;&nbsp;&nbsp;Sportnews | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1529/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1529) |
+| 1528 | 1489 | &nbsp;&nbsp;&nbsp;Tech News | &nbsp;&nbsp;&nbsp;Neues aus der Technik | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1528/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1528) |
+| 1526 | 1489 | &nbsp;&nbsp;&nbsp;Daily News | &nbsp;&nbsp;&nbsp;Nachrichten des Tages | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1526/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1526) |
+| 1530 | 1489 | &nbsp;&nbsp;&nbsp;News Commentary | &nbsp;&nbsp;&nbsp;Kommentare | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1530/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1530) |
+| 1527 | 1489 | &nbsp;&nbsp;&nbsp;Politics | &nbsp;&nbsp;&nbsp;Politik | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1527/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1527) |
+| 1502 | - | **Leisure** | **Freizeit** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1502/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1502) |
+| 1510 | 1502 | &nbsp;&nbsp;&nbsp;Animation & Manga | &nbsp;&nbsp;&nbsp;Animation und Manga | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1510/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1510) |
+| 1503 | 1502 | &nbsp;&nbsp;&nbsp;Automotive | &nbsp;&nbsp;&nbsp;Rund ums Auto | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1503/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1503) |
+| 1504 | 1502 | &nbsp;&nbsp;&nbsp;Aviation | &nbsp;&nbsp;&nbsp;Luftfahrt | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1504/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1504) |
+| 1506 | 1502 | &nbsp;&nbsp;&nbsp;Crafts | &nbsp;&nbsp;&nbsp;Basteln | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1506/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1506) |
+| 1507 | 1502 | &nbsp;&nbsp;&nbsp;Games | &nbsp;&nbsp;&nbsp;Spiele | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1507/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1507) |
+| 1511 | - | **Government** | **Regierung** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1511/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1511) |
+| 1512 | - | **Health & Fitness** | **Gesundheit und Fitness** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1512/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1512) |
+| 1513 | 1512 | &nbsp;&nbsp;&nbsp;Alternative Health | &nbsp;&nbsp;&nbsp;Alternative Therapien | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1513/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1513) |
+| 1514 | 1512 | &nbsp;&nbsp;&nbsp;Fitness | &nbsp;&nbsp;&nbsp;Fitness | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1514/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1514) |
+| 1518 | 1512 | &nbsp;&nbsp;&nbsp;Medicine | &nbsp;&nbsp;&nbsp;Medizin | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1518/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1518) |
+| 1517 | 1512 | &nbsp;&nbsp;&nbsp;Mental Health | &nbsp;&nbsp;&nbsp;Mentale Gesundheit | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1517/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1517) |
+| 1515 | 1512 | &nbsp;&nbsp;&nbsp;Nutrition | &nbsp;&nbsp;&nbsp;Ernährung | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1515/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1515) |
+| 1521 | - | **Parenting** | **Kindererziehung** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1521/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1521) |
+| 1533 | - | **Science** | **Wissenschaft** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1533/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1533) |
+| 1538 | 1533 | &nbsp;&nbsp;&nbsp;Astronomy | &nbsp;&nbsp;&nbsp;Astronomie | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1538/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1538) |
+| 1539 | 1533 | &nbsp;&nbsp;&nbsp;Chemistry | &nbsp;&nbsp;&nbsp;Chemie | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1539/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1539) |
+| 1540 | 1533 | &nbsp;&nbsp;&nbsp;Earth Sciences | &nbsp;&nbsp;&nbsp;Geowissenschaften | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1540/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1540) |
+| 1541 | 1533 | &nbsp;&nbsp;&nbsp;Life Sciences | &nbsp;&nbsp;&nbsp;Biowissenschaften | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1541/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1541) |
+| 1536 | 1533 | &nbsp;&nbsp;&nbsp;Mathematics | &nbsp;&nbsp;&nbsp;Mathematik | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1536/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1536) |
+| 1545 | - | **Sports** | **Sport** | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1545/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1545) |
+| 1548 | 1545 | &nbsp;&nbsp;&nbsp;Basketball | &nbsp;&nbsp;&nbsp;Basketball | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1548/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1548) |
+| 1547 | 1545 | &nbsp;&nbsp;&nbsp;Football | &nbsp;&nbsp;&nbsp;American Football | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1547/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1547) |
+| 1546 | 1545 | &nbsp;&nbsp;&nbsp;Soccer | &nbsp;&nbsp;&nbsp;Fußball | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1546/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1546) |
+| 1550 | 1545 | &nbsp;&nbsp;&nbsp;Hockey | &nbsp;&nbsp;&nbsp;Eishockey | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1550/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1550) |
+| 1560 | 1545 | &nbsp;&nbsp;&nbsp;Fantasy Sports | &nbsp;&nbsp;&nbsp;Fantasy Sport | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1560/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1560) |
+| 1554 | 1545 | &nbsp;&nbsp;&nbsp;Cricket | &nbsp;&nbsp;&nbsp;Cricket | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1554/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1554) |
+| 1552 | 1545 | &nbsp;&nbsp;&nbsp;Rugby | &nbsp;&nbsp;&nbsp;Rugby | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1552/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1552) |
+| 1556 | 1545 | &nbsp;&nbsp;&nbsp;Tennis | &nbsp;&nbsp;&nbsp;Tennis | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1556/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1556) |
+| 1553 | 1545 | &nbsp;&nbsp;&nbsp;Golf | &nbsp;&nbsp;&nbsp;Golf | [www](http://itunes.apple.com/de/rss/toppodcasts/genre=1553/limit=200/json) | [www](https://podcasts.apple.com/de/genre/1553) |
 
 ### Die Feed-URL zu einem Podcast im Apple-Verzeichnis herausfinden
 
