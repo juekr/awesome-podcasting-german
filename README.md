@@ -1,6 +1,6 @@
 # Eine Podcasting-Linksammlung? Awesome!
 
-von [@MirUnauffaellig](https://twitter.com/MirUnauffaellig)
+von [Jürgen (der mit den Podcasts)](https://www.linkedin.com/in/esisteinkrauss/)
 
 ---
 
