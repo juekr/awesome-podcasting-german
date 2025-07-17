@@ -291,6 +291,7 @@ von [Jürgen (der mit den Podcasts)](https://www.linkedin.com/in/esisteinkrauss/
 - [:gb: Chartable](https://chartable.com/)
 - [:gb: Podwatch](https://podwatch.io/charts/)
 - [:gb: iTunes Charts](http://itunescharts.net/)
+- [:gb: mowPod](https://charts.mowpod.com/)
 
 ### Mit anderen Podcastenden verbinden
 
