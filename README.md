@@ -238,6 +238,7 @@ von [Jürgen (der mit den Podcasts)](https://www.linkedin.com/in/esisteinkrauss/
 - [:gb: Loudness.fm](https://loudness.fm/): automatisches Mastering als Alternative zu Auphonic (in der Beta-Phase derzeit noch kostenlos)
 - [:gb: audapolis: Textbasierter Audio-Editor mit automatischer Transkription (gefördert vom :de: Bundesministerium für Bildung und Forschung)](https://github.com/audapolis/audapolis)
 - [:gb: Whisper](https://github.com/openai/whisper): OpenAIs Open-Source-KI für Transkription in verschiedenen Sprachen
+- [:gb: QuietTake Noise Remover](https://noiseremover.site/): kostenlose RNNoise-Rauschreduzierung für kurze Sprachaufnahmen direkt im Browser, ohne Konto oder Upload; Original-/Ergebnisvergleich und WAV-Export, bis zu 50 MB und fünf Minuten.
 
 #### Der richtige Umgang mit Episoden und ihren Metadaten
 
