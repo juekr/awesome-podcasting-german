@@ -197,6 +197,7 @@ von [Jürgen (der mit den Podcasts)](https://www.linkedin.com/in/esisteinkrauss/
 - [:gb: Cleanfeed](https://cleanfeed.net/): Multi-Track-Remote-Aufnahmen direkt im Browser
 - [:gb: Squadcast](https://squadcast.fm/): Remote-Aufnahmen und Audioschnitt direkt im Browser
 - [:gb: Riverside.fm](https://riverside.fm/): Remote-Aufnahmen direkt im Browser
+- [:de:/:gb: Airtape](https://airtape.co/): Remote-Aufnahmen direkt im Browser, lokale Aufnahme pro Teilnehmende:r in getrennten Audio- und Videospuren, Gäste per Link
 - [:gb: ClearCast](https://clearcast.io/)
 - [:gb: Ringr](https://ringr.com/)
 - [:gb: Cast](https://tryca.st/#rf-17807): Aufnahme, Bearbeitung, Veröffentlichung, alles im Browser
